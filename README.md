@@ -257,7 +257,7 @@ reporter.distribute_report(monthly_report, recipients='executives')
 - 📧 **Enterprise Sales:** sotiris@verityai.co
 - 🌐 **Case Studies:** [verityai.co/seo-case-studies](https://verityai.co)  
 - 💼 **LinkedIn:** [linkedin.com/in/sspyrou](https://linkedin.com/in/sspyrou)
-- 📱 **Direct:** +44 7920 514 588
+
 
 ---
 
