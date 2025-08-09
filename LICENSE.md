@@ -1,8 +1,10 @@
 # MIT License
 
-## SEO Automation Suite - Enterprise-Grade SEO Tools
+## SEO Automation Suite - Portfolio Demonstration
 
-**Copyright (c) 2025 VerityAI & SEO Automation Suite Contributors**
+**Portfolio Notice**: This is a demonstration of enterprise SEO expertise and advanced Python development capabilities, showcasing solutions for Fortune 500-scale challenges.
+
+**Copyright (c) 2025 Sotiris Spyrou (VerityAI)**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
